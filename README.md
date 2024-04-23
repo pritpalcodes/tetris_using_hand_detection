@@ -1,4 +1,4 @@
-**# tetris_using_hand_detection**# Tetris Hand Gesture Control
+# tetris_using_hand_detection**# Tetris Hand Gesture Control
 
 This project is a Tetris game implemented in Python using the Pygame library, with an added feature of controlling the game using hand gestures captured from a webcam. It utilizes the OpenCV and Mediapipe libraries for hand tracking and gesture recognition.
 
